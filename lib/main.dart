@@ -30,7 +30,7 @@ class FacebookApp extends StatelessWidget {
 
           style: TextStyle(
 
-            color: Colors.white,
+            color: Colors.blue,
 
           ),
         ),
